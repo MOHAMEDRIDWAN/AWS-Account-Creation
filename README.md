@@ -27,8 +27,8 @@ Set Permissions for IAM User
 Review and Create IAM User
 ## COMMANDS
 Include the commands used in the Experiment.
-### REG NUMBER:212223240116
-### NAME: Ponguru Aasrith Sairam
+### REG NUMBER:212223110030
+### NAME: Mohamed Ridwan A
 OUTPUT:
 root user
 ![root login](https://github.com/user-attachments/assets/c8980acf-3c07-4fee-a160-5e9184a9693f)
